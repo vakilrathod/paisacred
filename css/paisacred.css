@@ -4672,7 +4672,7 @@ figcaption {
 }
 
 .body-2 {
-  background-color: hsla(0, 0%, 100%, 0);
+  background-color: #000;
   color: #fff;
   font-weight: 400;
   letter-spacing: 0px;
@@ -4714,7 +4714,7 @@ figcaption {
 }
 
 .body-2.sub.purple {
-  color: #000;
+  color: #ffffff;
 }
 
 .social-icon {
@@ -7256,7 +7256,7 @@ figcaption {
   align-items: center;
   border-radius: 24px;
   background-color: #f2f4f7;
-  background-image: url("../images/careers.webp");
+  background-image: url("../imagescontact-us.html.webp");
   background-position: 50% 50%;
   background-size: contain;
 }
@@ -9497,7 +9497,7 @@ figcaption {
 }
 
 .body-7 {
-  background-color: #fff;
+  background-color: #000;
 }
 
 .list-2 {
@@ -9550,7 +9550,7 @@ figcaption {
   -ms-flex-align: center;
   align-items: center;
   grid-column-gap: 0.5rem;
-  border: 1px solid #7f56d9;
+  border: 1px solid #E7AE22;
   border-radius: 0.5rem;
   background-color: #000;
   box-shadow: 0 1px 2px 0 rgba(16, 24, 40, 0.05);
@@ -9567,8 +9567,8 @@ figcaption {
 }
 
 .uui-button-9:hover {
-  border-color: #6941c6;
-  background-color: #6941c6;
+  border-color: #E7AE22;
+  background-color: #E7AE22;
 }
 
 .uui-button-9:focus {
@@ -9769,7 +9769,7 @@ figcaption {
 .uui-icon-1x1-xsmall-5 {
   width: 1.5rem;
   height: 1.5rem;
-  color: #000;
+  color: #E7AE22;
 }
 
 .uui-contact03_icon-wrapper-2 {
@@ -12342,7 +12342,7 @@ figcaption {
     right: 0px;
     width: 100%;
     margin-top: 12px;
-    background-color: #480866;
+    background-color: #e7ae22;
   }
 
   .button.from {
